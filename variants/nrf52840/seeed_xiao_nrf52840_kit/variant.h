@@ -119,7 +119,7 @@ static const uint8_t SCK = PIN_SPI_SCK;
 
 /*
  * ==========================================
- * KONFIGURACJA DIY - GPS (UART)
+ * KONFIGURACJA DIY - GPS (UART))
  * ==========================================
  */
 #define HAS_GPS 1
